@@ -20,6 +20,7 @@ async function main() {
   const [inputText4, setInputText4] = useState('');
   const [outputText, setOutputText] = useState('');
 
+  /* kind of like observe in shiny*/
   const handleInputChange = (setter, event) => {
     setter(event.target.value);
   };
