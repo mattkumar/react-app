@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.735c9e44.css",
+    "main.js": "/react-app/static/js/main.7509a8db.js",
+    "static/js/787.a4b45000.chunk.js": "/react-app/static/js/787.a4b45000.chunk.js",
+    "static/media/wood2.png": "/react-app/static/media/wood2.992d2e8f8efba2138530.png",
+    "index.html": "/react-app/index.html",
+    "main.735c9e44.css.map": "/react-app/static/css/main.735c9e44.css.map",
+    "main.7509a8db.js.map": "/react-app/static/js/main.7509a8db.js.map",
+    "787.a4b45000.chunk.js.map": "/react-app/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735c9e44.css",
+    "static/js/main.7509a8db.js"
+  ]
+}
